@@ -1,7 +1,7 @@
 |PyPI version| |Docs badge| |Chat badge| |Build Status| |Code Of Conduct| |Mailing Lists| |License|
 
 *******
-Ansible
+Ansible Latest Version
 *******
 
 Ansible is a radically simple IT automation system. It handles
